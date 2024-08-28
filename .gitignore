@@ -1,0 +1,6 @@
+models/yolo*.pt
+runs/
+yolov10/
+datasets/
+cmd.txt
+custom_data.yaml
