@@ -1,4 +1,4 @@
-models/yolo*.pt
+models/yolo*.pt 
 runs/
 yolov10/
 datasets/
